@@ -20,8 +20,6 @@ A beautiful and intuitive mobile application for planning trips, discovering des
 - **Dart** - Programming language
 - **Material Design** - Design system
 
-## 🚀 Getting Started (For Developers)
-
 ### Prerequisites
 - Flutter SDK (3.x or higher)
 - Android Studio / VS Code
